@@ -35,7 +35,7 @@ Enviar Previsões por E-mail: Envio(email)
 Contribuições são bem-vindas e desempenham um papel vital no desenvolvimento contínuo deste projeto. 
 Se você deseja contribuir, sinta-se à vontade para abrir um pull request ou uma issue.
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE.md para detalhes.
+Este projeto está licenciado sob a Licença GNU  - veja o arquivo LICENSE.md para detalhes.
 
 Bruno Coelho Bulcão - Trabalho Inicial - BrunoBulcao
 E-mail: brunobulcao1994@gmail.com
